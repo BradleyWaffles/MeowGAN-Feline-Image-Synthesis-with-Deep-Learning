@@ -2,6 +2,10 @@
 
 Welcome to MeowGAN, a project dedicated to the art and science of generating cat images using Generative Adversarial Networks (GANs). Our goal is to push the boundaries of AI-driven creativity, producing an array of unique and captivating feline images that showcase the power of deep learning.
 
+## Notice:
+Project is still under development - results will be posted here when I decide it's complete.
+This is an exploratory project so I am open to advice and suggestions to better improve the process or code 
+
 ## Project Overview
 
 MeowGAN uses a dataset of thousands of cat images to train a GAN, learning to mimic the complex patterns that characterize our furry friends. This repository contains all the code and documentation necessary to train your own MeowGAN model, experiment with different architectures, and generate your own cat images.
@@ -28,4 +32,5 @@ Ensure you have Python 3.6+ installed along with the following packages:
 ### Installation
 
 Clone the repository to your local machine:
+
 
